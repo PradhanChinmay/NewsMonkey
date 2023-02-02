@@ -1,0 +1,52 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": {
+        "id": "entertainment-weekly",
+        "name": "Entertainment Weekly"
+      },
+      "author": "Dan Snierson",
+      "title": "Great American Family to unleash 18 new Christmas movies — see the schedule",
+      "description": "<em>Full House</em> vets Candace Cameron Bure and Andrea Barber are among the stars on the network's Yuletide slide, plus the gift of Gladys Knight.",
+      "url": "https://ew.com/tv/great-american-family-new-christmas-movies-schedule/",
+      "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&poi=%5B500%2C399%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2022%2F10%2F06%2FGreat-American-Family-Christmas-Programming-100522.jpg",
+      "publishedAt": "2022-10-06T18:05:08Z",
+      "content": "Great American Family isn't taking very long to transform itself into a Christmas-movie factory. The cable network (which happens to be run by former Hallmark Channel chief Bill Abbott) announced on … [+9441 chars]"
+    },
+    {
+      "source": {
+        "id": "entertainment-weekly",
+        "name": "Entertainment Weekly"
+      },
+      "author": null,
+      "title": "9 of the best Halloween movies to stream on Starz",
+      "description": "Celebrate spooky season with the best Halloween movies streaming on Starz, from true terrors to family-friendly favorites.",
+      "url": "https://ew.com/movies/starz-halloween-movies-streaming/",
+      "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&poi=%5B820%2C319%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2022%2F08%2F25%2FVampire-Movies-MONSTER-SQUAD.jpg",
+      "publishedAt": "2022-10-05T15:22:20.3523377Z",
+      "content": "Spooky season is all around, but the fear is all in your head in Silent House, a 2011 independent psychological horror film starring Elizabeth Olsen. Based on the 2010 Uruguayan film La Casa Muda, Si… [+399 chars]"
+    },
+    {
+      "source": { "id": "ign", "name": "IGN" },
+      "author": "Collier Jennings",
+      "title": "Best Action Movies on Netflix Right Now (September 2022) - IGN",
+      "description": "These are the best action movies on Netflix right now -- blockbusters, fight films, animated adventures and shootouts galore.",
+      "url": "https://www.ign.com/articles/best-action-movies-on-netflix-right-now",
+      "urlToImage": "https://assets-prd.ignimgs.com/2022/07/28/rrr-1659047262112.jpg?width=1280",
+      "publishedAt": "2022-09-01T18:03:14Z",
+      "content": "There is nothing like a good action movie on Netflix. The perfectly choreographed fight scenes that let you feel every punch and kick on screen; the shootouts that see bullets and bodies hitting the … [+11394 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": null,
+      "title": "Daily Briefing",
+      "description": "The day's top stories, from sports to movies to politics to world events.",
+      "url": "https://profile.usatoday.com/newsletters/daily-briefing/",
+      "urlToImage": "https://profile.usatoday.com/newsletters/resources/usat/property/usatoday/newsletter-thumbs/8872UT-E-NLETTER02@2x.jpg",
+      "publishedAt": "2021-08-15T15:35:07+00:00",
+      "content": "The day's top stories, from sports to movies to politics to world events."
+    }
+  ]
+}
